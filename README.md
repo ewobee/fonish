@@ -1,5 +1,5 @@
-# Fonške
-Fonške is a phonetic based conlang using the fonish alphabet. Suggest words for me to add if you would like to see them.
+# Fonish
+Fonish is a phonetic based language using the fonish alphabet. Suggest words for me to add if you would like to see them.
 
 # Spelling
 The way you spell with this language is all phonetically. Try to sound out the words if you are having trouble.
