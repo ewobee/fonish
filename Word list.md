@@ -11,6 +11,8 @@ roi - no, not
 
 o - to
 
+e - is(ere), was(eke), will be(ete)
+
 la - do
 
 šia - eat, eats
@@ -30,3 +32,13 @@ eša - ever
 ðoa - try
 
 iŋglaške - English
+
+fontik - phonetic
+
+based - rigo
+
+language - óra
+
+æ - a
+
+korero - construct
