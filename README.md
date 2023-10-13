@@ -25,7 +25,7 @@ All verbs have an infinitive form, for example, _O šia_ (To eat)
 
 For any verb in present tense, you add a _-re_ to the end of the verb.
 ```
-Šiare (šia + re
+Šiare (šia + re)
 ```
 In past tense, you add a _-ke_
 ```
@@ -35,6 +35,8 @@ In future tense, you add a _-te_
 ```
 Šiate (šia + te)
 ```
+# Word Order
+Words are ordered slightly differentlþ from english, for example, if you are asking a question of 'do you like ____', instead of putting 'do' in there, you would say it more like 'like you ____'
 # Alphabet
 The fonish alphabet is as follows:
 
