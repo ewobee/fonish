@@ -1,5 +1,16 @@
 # fonish
 A phonetic based language/alphabet using latin characters. Currently this is just an alphabet and doesn't have it's own words, but I am planning on developing some words at some point
+
+# Spelling
+The way you spell with this language is all phonetically. Try to sound out the words if you are having trouble.
+Ex. 
+```
+Have you ever tried eating chicken without your mouth?
+```
+```
+Hav ju avar traid tu iat tšiken wiþout jor mouþ?
+```
+Spelling could differ depending on accent, or just how you pronounce the word.
 # Alphabet
 The fonish alphabet is as follows:
 
