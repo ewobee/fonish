@@ -1,5 +1,5 @@
-# fonish
-A phonetic based language/alphabet using latin characters. Currently this is just an alphabet and doesn't have it's own words, but I am planning on developing some words at some point
+# Fonške
+Fonške is a phonetic based conlang using the fonish alphabet. Suggest words for me to add if you would like to see them.
 
 # Spelling
 The way you spell with this language is all phonetically. Try to sound out the words if you are having trouble.
@@ -13,6 +13,11 @@ Hav ju avar traid tu iat tšiken wiþout jor mouþ?
 You can try to spell things how they are pronounced with diacritics, but you can write without them, it just slightly changes how you pronounce it most of the time.
 
 Spelling could differ depending on accent, or just how you pronounce the word.
+
+Here is an example sentence in the Fonške language
+```
+Ji likre roi su šire tšaka roviþ ji lupe
+```
 # Alphabet
 The fonish alphabet is as follows:
 
