@@ -1,28 +1,34 @@
 # Word list (verbs in infinitive form)
 [Fonške - English]
 
-Ji - I, me, my, mine
+ji - I, me, my, mine
 
-Ka - like, likes
+pi - you, your, yours
 
-Roi - no, not
+ka - like, likes
 
-O - To
+roi - no, not
 
-Šia - eat, eats
+o - to
 
-Tšaka - Chiken
+la - do
 
-Ro- - not- (ex. rovin - without)
+šia - eat, eats
 
-Vin - with
+tšaka - chiken
 
-Lupe - mouth
+ro- - not- (ex. rovin - without)
 
-Ve - have
+vin - with
 
-Velso - have you
+lupe - mouth
 
-Eša - Ever
+ve - have
 
-Ðoa - Try
+velso - have you
+
+eša - ever
+
+ðoa - try
+
+iŋglaške - English
