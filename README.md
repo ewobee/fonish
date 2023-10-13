@@ -5,7 +5,7 @@ A phonetic based language/alphabet using latin characters. Currently this is jus
 The way you spell with this language is all phonetically. Try to sound out the words if you are having trouble.
 Ex. 
 ```
-Have you ever tried eating chicken without your mouth?
+Have you ever tried to eat chicken without your mouth?
 ```
 ```
 Hav ju avar traid tu iat tšiken wiþout jor mouþ?
