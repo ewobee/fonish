@@ -1,5 +1,5 @@
-# fonish
-A phonetic based language/alphabet using latin characters. Currently this is just an alphabet and doesn't have it's own words, but I am planning on developing some words at some point
+# Fonške
+Fonške is a phonetic based conlang using the fonish alphabet. Suggest words for me to add if you would like to see them.
 
 # Spelling
 The way you spell with this language is all phonetically. Try to sound out the words if you are having trouble.
@@ -13,6 +13,30 @@ Hav ju avar traid tu iat tšiken wiþout jor mouþ?
 You can try to spell things how they are pronounced with diacritics, but you can write without them, it just slightly changes how you pronounce it most of the time.
 
 Spelling could differ depending on accent, or just how you pronounce the word.
+
+Here is an example sentence in the Fonške language
+```
+Ji kare roi o šiare tšaka rovin ji lupe
+```
+# Tenses
+Verbs change with present tense, past tense, and future tense.
+
+All verbs have an infinitive form, for example, _O šia_ (To eat)
+
+For any verb in present tense, you add a _-re_ to the end of the verb.
+```
+Šiare (šia + re)
+```
+In past tense, you add a _-ke_
+```
+Šiake (šia + ke)
+```
+In future tense, you add a _-te_
+```
+Šiate (šia + te)
+```
+# Word Order
+Words are ordered slightly differentlþ from english, for example, if you are asking a question of 'do you like ____', instead of adding the word 'do', you would say 'like you ____'
 # Alphabet
 The fonish alphabet is as follows:
 
