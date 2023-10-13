@@ -25,8 +25,6 @@ lupe - mouth
 
 ve - have
 
-velso - have you
-
 eša - ever
 
 ðoa - try
