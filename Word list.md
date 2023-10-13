@@ -42,3 +42,9 @@ language - óra
 æ - a
 
 korero - construct
+
+noj - some
+
+fete - solve, fix
+
+hojven - consistant
