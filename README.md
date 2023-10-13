@@ -16,7 +16,7 @@ Spelling could differ depending on accent, or just how you pronounce the word.
 
 Here is an example sentence in the Fonške language
 ```
-Ji kare roi su šire tšaka roviþ ji lupe
+Ji kare roi su šire tšaka rovin ji lupe
 ```
 # Alphabet
 The fonish alphabet is as follows:
