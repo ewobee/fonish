@@ -16,7 +16,24 @@ Spelling could differ depending on accent, or just how you pronounce the word.
 
 Here is an example sentence in the Fonške language
 ```
-Ji kare roi su šire tšaka rovin ji lupe
+Ji kare roi o šiare tšaka rovin ji lupe
+```
+# Tenses
+Verbs change with present tense, past tense, and future tense.
+
+All verbs have an infinitive form, for example, _O šia_ (To eat)
+
+For any verb in present tense, you add a _-re_ to the end of the verb.
+```
+Šiare (šia + re
+```
+In past tense, you add a _-ke_
+```
+Šiake (šia + ke)
+```
+In future tense, you add a _-te_
+```
+Šiate (šia + te)
 ```
 # Alphabet
 The fonish alphabet is as follows:
