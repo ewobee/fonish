@@ -36,7 +36,7 @@ In future tense, you add a _-te_
 Šiate (šia + te)
 ```
 # Word Order
-Words are ordered slightly differentlþ from english, for example, if you are asking a question of 'do you like ____', instead of putting 'do' in there, you would say it more like 'like you ____'
+Words are ordered slightly differentlþ from english, for example, if you are asking a question of 'do you like ____', instead of adding the word 'do', you would say 'like you ____'
 # Alphabet
 The fonish alphabet is as follows:
 
