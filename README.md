@@ -10,6 +10,8 @@ Have you ever tried to eat chicken without your mouth?
 ```
 Hav ju avar traid tu iat tšiken wiþout jor mouþ?
 ```
+You can try to spell things how they are pronounced with diacritics, but you can write without them, it just slightly changes how you pronounce it most of the time.
+
 Spelling could differ depending on accent, or just how you pronounce the word.
 # Alphabet
 The fonish alphabet is as follows:
